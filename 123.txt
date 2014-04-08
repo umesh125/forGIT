@@ -1,1 +1,13 @@
-dhajsk dsajd sa dhsa dhsaj  sdhsajhdsja sahdjsahdjsahd sajhdsa hdsaj 
+this first file for git
+
+
+
+this is first change
+
+
+
+
+this second change....
+
+
+this is third change...
